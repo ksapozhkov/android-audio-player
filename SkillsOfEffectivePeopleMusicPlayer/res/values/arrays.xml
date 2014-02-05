@@ -1,0 +1,424 @@
+<resources>
+
+    <!-- Local Audio -->
+    <string name="track1.mp3">Заглавие</string>
+
+    <string-array name="urls">
+        <item>http://sapozhkov.podfm.ru/7skills/61/file/podfm_sapozhkov_7skills_20131226_61.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/62/file/podfm_sapozhkov_7skills_20131227.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/63/file/podfm_sapozhkov_7skills_20131227_63.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/64/file/podfm_sapozhkov_7skills_20131227_64.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/65/file/podfm_sapozhkov_7skills_20131227_65.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/66/file/podfm_sapozhkov_7skills_20131227_66.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/67/file/podfm_sapozhkov_7skills_20131227_67.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/68/file/podfm_sapozhkov_7skills_20131227_68.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/69/file/podfm_sapozhkov_7skills_20131227_69.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/70/file/podfm_sapozhkov_7skills_20131227_70.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/71/file/podfm_sapozhkov_7skills_20131227_71.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/72/file/podfm_sapozhkov_7skills_20131227_72.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/73/file/podfm_sapozhkov_7skills_20131227_73.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/74/file/podfm_sapozhkov_7skills_20131227_74.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/75/file/podfm_sapozhkov_7skills_20131227_75.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/76/file/podfm_sapozhkov_7skills_20131227_76.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/77/file/podfm_sapozhkov_7skills_20131227_77.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/78/file/podfm_sapozhkov_7skills_20131227_78.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/79/file/podfm_sapozhkov_7skills_20131227_79.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/80/file/podfm_sapozhkov_7skills_20131227_80.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/81/file/podfm_sapozhkov_7skills_20131227_81.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/82/file/podfm_sapozhkov_7skills_20131227_82.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/83/file/podfm_sapozhkov_7skills_20131227_83.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/84/file/podfm_sapozhkov_7skills_20131227_84.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/85/file/podfm_sapozhkov_7skills_20131227_85.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/86/file/podfm_sapozhkov_7skills_20131227_86.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/87/file/podfm_sapozhkov_7skills_20131227_87.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/88/file/podfm_sapozhkov_7skills_20131227_88.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/89/file/podfm_sapozhkov_7skills_20131227_89.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/90/file/podfm_sapozhkov_7skills_20131227_90.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/91/file/podfm_sapozhkov_7skills_20131227_91.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/92/file/podfm_sapozhkov_7skills_20131227_92.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/93/file/podfm_sapozhkov_7skills_20131227_93.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/94/file/podfm_sapozhkov_7skills_20131227_94.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/95/file/podfm_sapozhkov_7skills_20131227_95.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/96/file/podfm_sapozhkov_7skills_20131227_96.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/97/file/podfm_sapozhkov_7skills_20131227_97.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/98/file/podfm_sapozhkov_7skills_20131227_98.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/99/file/podfm_sapozhkov_7skills_20131227_99.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/100/file/podfm_sapozhkov_7skills_20131227_100.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/101/file/podfm_sapozhkov_7skills_20131227_101.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/102/file/podfm_sapozhkov_7skills_20131227_102.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/103/file/podfm_sapozhkov_7skills_20131227_103.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/104/file/podfm_sapozhkov_7skills_20131227_104.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/105/file/podfm_sapozhkov_7skills_20131227_105.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/106/file/podfm_sapozhkov_7skills_20131227_106.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/107/file/podfm_sapozhkov_7skills_20131227_107.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/108/file/podfm_sapozhkov_7skills_20131227_108.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/109/file/podfm_sapozhkov_7skills_20131227_109.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/110/file/podfm_sapozhkov_7skills_20131227_110.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/111/file/podfm_sapozhkov_7skills_20131227_111.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/112/file/podfm_sapozhkov_7skills_20131227_112.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/113/file/podfm_sapozhkov_7skills_20131227_113.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/114/file/podfm_sapozhkov_7skills_20131227_114.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/115/file/podfm_sapozhkov_7skills_20131227_115.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/116/file/podfm_sapozhkov_7skills_20131227_116.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/117/file/podfm_sapozhkov_7skills_20131227_117.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/118/file/podfm_sapozhkov_7skills_20131227_118.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/119/file/podfm_sapozhkov_7skills_20131227_119.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/120/file/podfm_sapozhkov_7skills_20131227_120.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/121/file/podfm_sapozhkov_7skills_20131227_121.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/122/file/podfm_sapozhkov_7skills_20131227_122.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/123/file/podfm_sapozhkov_7skills_20131227_123.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/124/file/podfm_sapozhkov_7skills_20131227_124.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/125/file/podfm_sapozhkov_7skills_20131227_125.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/126/file/podfm_sapozhkov_7skills_20131227_126.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/127/file/podfm_sapozhkov_7skills_20131227_127.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/128/file/podfm_sapozhkov_7skills_20131227_128.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/129/file/podfm_sapozhkov_7skills_20131227_129.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/130/file/podfm_sapozhkov_7skills_20131227_130.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/131/file/podfm_sapozhkov_7skills_20131227_131.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/132/file/podfm_sapozhkov_7skills_20131227_132.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/133/file/podfm_sapozhkov_7skills_20131227_133.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/134/file/podfm_sapozhkov_7skills_20131227_134.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/135/file/podfm_sapozhkov_7skills_20131227_135.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/136/file/podfm_sapozhkov_7skills_20131227_136.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/137/file/podfm_sapozhkov_7skills_20131227_137.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/138/file/podfm_sapozhkov_7skills_20131227_138.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/139/file/podfm_sapozhkov_7skills_20131227_139.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/140/file/podfm_sapozhkov_7skills_20131227_140.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/141/file/podfm_sapozhkov_7skills_20131227_141.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/142/file/podfm_sapozhkov_7skills_20131227_142.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/143/file/podfm_sapozhkov_7skills_20131227_143.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/144/file/podfm_sapozhkov_7skills_20131227_144.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/145/file/podfm_sapozhkov_7skills_20131227_145.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/146/file/podfm_sapozhkov_7skills_20131227_146.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/147/file/podfm_sapozhkov_7skills_20131227_147.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/148/file/podfm_sapozhkov_7skills_20131227_148.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/149/file/podfm_sapozhkov_7skills_20131227_149.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/150/file/podfm_sapozhkov_7skills_20131227_150.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/151/file/podfm_sapozhkov_7skills_20131227_151.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/152/file/podfm_sapozhkov_7skills_20131227_152.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/153/file/podfm_sapozhkov_7skills_20131227_153.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/154/file/podfm_sapozhkov_7skills_20131227_154.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/155/file/podfm_sapozhkov_7skills_20131227_155.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/156/file/podfm_sapozhkov_7skills_20131227_156.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/157/file/podfm_sapozhkov_7skills_20131227_157.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/158/file/podfm_sapozhkov_7skills_20131227_158.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/159/file/podfm_sapozhkov_7skills_20131227_159.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/160/file/podfm_sapozhkov_7skills_20131227_160.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/161/file/podfm_sapozhkov_7skills_20131227_161.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/162/file/podfm_sapozhkov_7skills_20131227_162.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/163/file/podfm_sapozhkov_7skills_20131227_163.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/164/file/podfm_sapozhkov_7skills_20131227_164.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/165/file/podfm_sapozhkov_7skills_20131227_165.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/166/file/podfm_sapozhkov_7skills_20131227_166.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/167/file/podfm_sapozhkov_7skills_20131227_167.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/168/file/podfm_sapozhkov_7skills_20131227_168.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/169/file/podfm_sapozhkov_7skills_20131227_169.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/170/file/podfm_sapozhkov_7skills_20131227_170.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/171/file/podfm_sapozhkov_7skills_20131227_171.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/172/file/podfm_sapozhkov_7skills_20131227_172.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/173/file/podfm_sapozhkov_7skills_20131227_173.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/174/file/podfm_sapozhkov_7skills_20131227_174.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/175/file/podfm_sapozhkov_7skills_20131227_175.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/176/file/podfm_sapozhkov_7skills_20131227_176.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/177/file/podfm_sapozhkov_7skills_20131227_177.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/178/file/podfm_sapozhkov_7skills_20131227_178.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/179/file/podfm_sapozhkov_7skills_20131227_179.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/180/file/podfm_sapozhkov_7skills_20131227_180.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/181/file/podfm_sapozhkov_7skills_20131227_181.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/182/file/podfm_sapozhkov_7skills_20131227_182.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/183/file/podfm_sapozhkov_7skills_20131227_183.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/184/file/podfm_sapozhkov_7skills_20131227_184.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/185/file/podfm_sapozhkov_7skills_20131227_185.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/186/file/podfm_sapozhkov_7skills_20131227_186.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/187/file/podfm_sapozhkov_7skills_20131227_187.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/188/file/podfm_sapozhkov_7skills_20131227_188.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/189/file/podfm_sapozhkov_7skills_20131227_189.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/190/file/podfm_sapozhkov_7skills_20131227_190.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/191/file/podfm_sapozhkov_7skills_20131227_191.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/192/file/podfm_sapozhkov_7skills_20131227_192.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/193/file/podfm_sapozhkov_7skills_20131227_193.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/194/file/podfm_sapozhkov_7skills_20131227_194.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/195/file/podfm_sapozhkov_7skills_20131227_195.mp3</item>
+        <item>http://sapozhkov.podfm.ru/7skills/196/file/podfm_sapozhkov_7skills_20131227_196.mp3</item>
+    </string-array>
+
+    <!-- Internet Audio -->
+    <string-array name="names">
+        <item>	Предисловие к русскому изданию	</item>
+        <item>	Благодарности	</item>
+        <item>	Предисловие	</item>
+        <item>	Изнутри наружу	</item>
+        <item>	Этика личности и этика характера	</item>
+        <item>	Первичное и вторичное	</item>
+        <item>	Сила парадигмы	</item>
+        <item>	Сдвиг парадигмы и его сила	</item>
+        <item>	Бытие и видение	</item>
+        <item>	Парадигма, основанная на принципах	</item>
+        <item>	Принципы роста и изменения	</item>
+        <item>	Наше видение и есть проблема	</item>
+        <item>	Новый уровень мышления	</item>
+        <item>	7 навыков: общее представление	</item>
+        <item>	Определение навыка	</item>
+        <item>	Постоянное совершенствование	</item>
+        <item>	Определение эффективности	</item>
+        <item>	Три типа ресурсов	</item>
+        <item>	Ресурсы и средства организации	</item>
+        <item>	Как пользоваться этой аудиокнигой	</item>
+        <item>	Чего вам следует ожидать	</item>
+        <item>	НАВЫК 1: будьте проактивны	</item>
+        <item>	Социальное заркало	</item>
+        <item>	Между раздражителем и реакцией	</item>
+        <item>	Определение проактивности	</item>
+        <item>	Проявление инициативы	</item>
+        <item>	Действовать или быть объектом воздействия	</item>
+        <item>	Вслушивайтесь в свою речь	</item>
+        <item>	Круг забот / Круг влияния	</item>
+        <item>	Прямой контроль, косвенный контроль, отсутствие контроля	</item>
+        <item>	Расширяя круг влияния	</item>
+        <item>	Иметь и быть	</item>
+        <item>	Другой конец палки	</item>
+        <item>	Брать и выполнять обязательства	</item>
+        <item>	Проактивность: 30-ти дневный тест	</item>
+        <item>	Практические задания	</item>
+        <item>	НАВЫК 2: Начинайте, представляя конечную цель	</item>
+        <item>	Что означает "Начинайте, представляя конечную цель"	</item>
+        <item>	Все создается дважды	</item>
+        <item>	По плану или по умолчанию	</item>
+        <item>	Лидерство и управление	</item>
+        <item>	Переписывание сценария	</item>
+        <item>	Положение личной миссии	</item>
+        <item>	Что находится в самом центре	</item>
+        <item>	Альтернативные центры	</item>
+        <item>	Определение собственного центра	</item>
+        <item>	Центр, основанный на принципах	</item>
+        <item>	Написание и реализация личной миссии	</item>
+        <item>	Используйте оба полушария мозга	</item>
+        <item>	Два способа включения правого полушария	</item>
+        <item>	Определение ролей и целей	</item>
+        <item>	Миссия семьи	</item>
+        <item>	Миссия организации	</item>
+        <item>	Практические задания	</item>
+        <item>	НАВЫК 3: Сначала делайте то, что необходимо	</item>
+        <item>	Сила независимой воли	</item>
+        <item>	4 уровня управления временем	</item>
+        <item>	Квадрат II	</item>
+        <item>	Что нам стоит сказать нет	</item>
+        <item>	Перемещение в Квадрат II	</item>
+        <item>	Инструмент Квадрата II	</item>
+        <item>	Самоуправление в Квадрате II	</item>
+        <item>	Жизнь по программе	</item>
+        <item>	Преимущества 4 уровня	</item>
+        <item>	Увеличение R/RS путем делегирования	</item>
+        <item>	Делегирование исполнения	</item>
+        <item>	Делегирование руководства	</item>
+        <item>	Парадигма Квадрата II	</item>
+        <item>	Практические задания	</item>
+        <item>	Парадигмы взаимозависимости	</item>
+        <item>	Эмоциональный банковский счет	</item>
+        <item>	6 главных вкладов	</item>
+        <item>	Понимание	</item>
+        <item>	Внимание к мелочам	</item>
+        <item>	Выполнение обязательств	</item>
+        <item>	Прояснение ожиданий	</item>
+        <item>	Проявление целостности личности	</item>
+        <item>	Принесение искренних извинений	</item>
+        <item>	Законы любви и законы жизни	</item>
+        <item>	R-проблемы являются RS-возможностями	</item>
+        <item>	Навыки взаимозависимости	</item>
+        <item>	НАВЫК 4: Думайте в духе "выиграл/выиграл"	</item>
+        <item>	6 парадигм взаимодействия между людьми	</item>
+        <item>	Выиграл / выиграл	</item>
+        <item>	Выиграл / проиграл	</item>
+        <item>	Проиграл / выиграл	</item>
+        <item>	Проиграл / проиграл	</item>
+        <item>	Выиграл	</item>
+        <item>	Какой из вариантов лучше	</item>
+        <item>	Выиграл / выиграл или не связываться	</item>
+        <item>	5 измерений установки выиграл / выиграл	</item>
+        <item>	Характер	</item>
+        <item>	Отношения	</item>
+        <item>	Соглашения	</item>
+        <item>	Обучение управлению по принципу выиграл / выиграл	</item>
+        <item>	Соглашение о деятельности в духе выиграл / выиграл	</item>
+        <item>	Системы	</item>
+        <item>	Процессы	</item>
+        <item>	Практические задания	</item>
+        <item>	НАВЫК 5: Принципы эмпатического общения	</item>
+        <item>	Характер и общение	</item>
+        <item>	Эмпатическое слушание	</item>
+        <item>	Сначала диагноз, потом рецепт	</item>
+        <item>	4 типа автобиографических ответов	</item>
+        <item>	Понимание и восприятие	</item>
+        <item>	...потом стремитесь быть понятыми	</item>
+        <item>	Один на один	</item>
+        <item>	Практические задания	</item>
+        <item>	НАВЫК 6: Достигайте синергии	</item>
+        <item>	Синергетическая коммуникация	</item>
+        <item>	Синергия в учебной аудитории	</item>
+        <item>	Синергия в бизнесе	</item>
+        <item>	Синергия и общение	</item>
+        <item>	Поиски 3 альтернативы	</item>
+        <item>	Отрицательная синергия	</item>
+        <item>	Ценить различия	</item>
+        <item>	Анализ силового поля	</item>
+        <item>	В природе все синергетично	</item>
+        <item>	Практические задания	</item>
+        <item>	НАВЫК 7: Затачивайте пилу	</item>
+        <item>	4 фактора обновления	</item>
+        <item>	Физическое измерение	</item>
+        <item>	Духовное измерение	</item>
+        <item>	Интеллектуальное измерение	</item>
+        <item>	Социально-эмоциональное измерение	</item>
+        <item>	Сценарий для других	</item>
+        <item>	Баланс в обновлении	</item>
+        <item>	Синергия в обновлении	</item>
+        <item>	Восходящая спираль роста	</item>
+        <item>	Практические задания	</item>
+        <item>	И вновь изнутри наружу	</item>
+        <item>	Взаимосвязь поколений	</item>
+        <item>	Станьте проводником перемен	</item>
+        <item>	От автора	</item>
+        <item>	Послесловие	</item>
+        <item>	Приложение: рабочий день в Квадрате II	</item>
+    </string-array>
+    <string-array name="payment">
+        <item>free</item>
+        <item>free</item>
+        <item>free</item>
+        <item>free</item>
+        <item>free</item>
+        <item>free</item>
+        <item>free</item>
+        <item>free</item>
+        <item>free</item>
+        <item>free</item>
+        <item>free</item>
+        <item>free</item>
+        <item>free</item>
+        <item>free</item>
+        <item>free</item>
+        <item>free</item>
+        <item>free</item>
+        <item>free</item>
+        <item>free</item>
+        <item>free</item>
+        <item>free</item>
+        <item>free</item>
+        <item>free</item>
+        <item>free</item>
+        <item>free</item>
+        <item>free</item>
+        <item>free</item>
+        <item>free</item>
+        <item>free</item>
+        <item>free</item>
+        <item>paid</item>
+        <item>paid</item>
+        <item>paid</item>
+        <item>paid</item>
+        <item>paid</item>
+        <item>paid</item>
+        <item>paid</item>
+        <item>paid</item>
+        <item>paid</item>
+        <item>paid</item>
+        <item>paid</item>
+        <item>paid</item>
+        <item>paid</item>
+        <item>paid</item>
+        <item>paid</item>
+        <item>paid</item>
+        <item>paid</item>
+        <item>paid</item>
+        <item>paid</item>
+        <item>paid</item>
+        <item>paid</item>
+        <item>paid</item>
+        <item>paid</item>
+        <item>paid</item>
+        <item>paid</item>
+        <item>paid</item>
+        <item>paid</item>
+        <item>paid</item>
+        <item>paid</item>
+        <item>paid</item>
+        <item>paid</item>
+        <item>paid</item>
+        <item>paid</item>
+        <item>paid</item>
+        <item>paid</item>
+        <item>paid</item>
+        <item>paid</item>
+        <item>paid</item>
+        <item>paid</item>
+        <item>paid</item>
+        <item>paid</item>
+        <item>paid</item>
+        <item>paid</item>
+        <item>paid</item>
+        <item>paid</item>
+        <item>paid</item>
+        <item>paid</item>
+        <item>paid</item>
+        <item>paid</item>
+        <item>paid</item>
+        <item>paid</item>
+        <item>paid</item>
+        <item>paid</item>
+        <item>paid</item>
+        <item>paid</item>
+        <item>paid</item>
+        <item>paid</item>
+        <item>paid</item>
+        <item>paid</item>
+        <item>paid</item>
+        <item>paid</item>
+        <item>paid</item>
+        <item>paid</item>
+        <item>paid</item>
+        <item>paid</item>
+        <item>paid</item>
+        <item>paid</item>
+        <item>paid</item>
+        <item>paid</item>
+        <item>paid</item>
+        <item>paid</item>
+        <item>paid</item>
+        <item>paid</item>
+        <item>paid</item>
+        <item>paid</item>
+        <item>paid</item>
+        <item>paid</item>
+        <item>paid</item>
+        <item>paid</item>
+        <item>paid</item>
+        <item>paid</item>
+        <item>paid</item>
+        <item>paid</item>
+        <item>paid</item>
+        <item>paid</item>
+        <item>paid</item>
+        <item>paid</item>
+        <item>paid</item>
+        <item>paid</item>
+        <item>paid</item>
+        <item>paid</item>
+        <item>paid</item>
+        <item>paid</item>
+        <item>paid</item>
+        <item>paid</item>
+        <item>paid</item>
+        <item>paid</item>
+        <item>paid</item>
+        <item>paid</item>
+        <item>paid</item>
+        <item>paid</item>
+        <item>paid</item>
+        <item>paid</item>
+        <item>paid</item>
+        <item>paid</item>
+        <item>paid</item>
+        <item>paid</item>
+    </string-array>
+
+</resources>

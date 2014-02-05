@@ -1,0 +1,117 @@
+com.newapp.musicplayer.krasnova.MusicPlayerActivity -> com.newapp.musicplayer.krasnova.MusicPlayerActivity:
+    android.widget.ImageButton btnPlay -> a
+    android.widget.ImageButton btnForward -> b
+    android.widget.ImageButton btnBackward -> c
+    android.widget.ImageButton btnNext -> d
+    android.widget.ImageButton btnPrevious -> e
+    android.widget.ImageButton btnPlaylist -> f
+    android.widget.ImageButton btnShareAction -> g
+    android.widget.ImageView btnBook -> h
+    android.widget.ImageButton btnRepeat -> i
+    android.widget.ImageButton btnShuffle -> j
+    android.widget.SeekBar songProgressBar -> k
+    android.widget.TextView songTitleLabel -> l
+    android.widget.TextView songCurrentDurationLabel -> m
+    android.widget.TextView songTotalDurationLabel -> n
+    android.media.MediaPlayer mp -> o
+    android.os.Handler mHandler -> p
+    com.newapp.musicplayer.krasnova.SongsManager songManager -> q
+    com.newapp.musicplayer.krasnova.Utilities utils -> r
+    int seekForwardTime -> s
+    int seekBackwardTime -> t
+    int currentSongIndex -> u
+    boolean isShuffle -> v
+    boolean isRepeat -> w
+    java.util.List songsDescriptors -> x
+    java.util.List songsNames -> y
+    android.widget.ImageView linkToSite -> z
+    java.lang.Runnable mUpdateTimeTask -> A
+    void onCreate(android.os.Bundle) -> onCreate
+    void playCurrentSong() -> b
+    void onActivityResult(int,int,android.content.Intent) -> onActivityResult
+    void playSong(int) -> a
+    void updateProgressBar() -> a
+    void onProgressChanged(android.widget.SeekBar,int,boolean) -> onProgressChanged
+    void onStartTrackingTouch(android.widget.SeekBar) -> onStartTrackingTouch
+    void onStopTrackingTouch(android.widget.SeekBar) -> onStopTrackingTouch
+    void onCompletion(android.media.MediaPlayer) -> onCompletion
+    void onDestroy() -> onDestroy
+    android.media.MediaPlayer access$000(com.newapp.musicplayer.krasnova.MusicPlayerActivity) -> a
+    android.widget.ImageButton access$100(com.newapp.musicplayer.krasnova.MusicPlayerActivity) -> b
+    int access$200(com.newapp.musicplayer.krasnova.MusicPlayerActivity) -> c
+    int access$300(com.newapp.musicplayer.krasnova.MusicPlayerActivity) -> d
+    int access$400(com.newapp.musicplayer.krasnova.MusicPlayerActivity) -> e
+    java.util.List access$500(com.newapp.musicplayer.krasnova.MusicPlayerActivity) -> f
+    int access$402(com.newapp.musicplayer.krasnova.MusicPlayerActivity,int) -> a
+    boolean access$600(com.newapp.musicplayer.krasnova.MusicPlayerActivity) -> g
+    boolean access$602(com.newapp.musicplayer.krasnova.MusicPlayerActivity,boolean) -> a
+    android.widget.ImageButton access$700(com.newapp.musicplayer.krasnova.MusicPlayerActivity) -> h
+    boolean access$802(com.newapp.musicplayer.krasnova.MusicPlayerActivity,boolean) -> b
+    android.widget.ImageButton access$900(com.newapp.musicplayer.krasnova.MusicPlayerActivity) -> i
+    boolean access$800(com.newapp.musicplayer.krasnova.MusicPlayerActivity) -> j
+    android.widget.ImageView access$1000(com.newapp.musicplayer.krasnova.MusicPlayerActivity) -> k
+    com.newapp.musicplayer.krasnova.Utilities access$1100(com.newapp.musicplayer.krasnova.MusicPlayerActivity) -> l
+    android.widget.TextView access$1200(com.newapp.musicplayer.krasnova.MusicPlayerActivity) -> m
+    android.widget.TextView access$1300(com.newapp.musicplayer.krasnova.MusicPlayerActivity) -> n
+    android.widget.SeekBar access$1400(com.newapp.musicplayer.krasnova.MusicPlayerActivity) -> o
+    android.os.Handler access$1500(com.newapp.musicplayer.krasnova.MusicPlayerActivity) -> p
+com.newapp.musicplayer.krasnova.MusicPlayerActivity$1 -> com.newapp.musicplayer.krasnova.a:
+    com.newapp.musicplayer.krasnova.MusicPlayerActivity this$0 -> a
+    void onClick(android.view.View) -> onClick
+com.newapp.musicplayer.krasnova.MusicPlayerActivity$10 -> com.newapp.musicplayer.krasnova.b:
+    com.newapp.musicplayer.krasnova.MusicPlayerActivity this$0 -> a
+    void onClick(android.view.View) -> onClick
+com.newapp.musicplayer.krasnova.MusicPlayerActivity$11 -> com.newapp.musicplayer.krasnova.c:
+    com.newapp.musicplayer.krasnova.MusicPlayerActivity this$0 -> a
+    void onClick(android.view.View) -> onClick
+com.newapp.musicplayer.krasnova.MusicPlayerActivity$12 -> com.newapp.musicplayer.krasnova.d:
+    com.newapp.musicplayer.krasnova.MusicPlayerActivity this$0 -> a
+    void run() -> run
+com.newapp.musicplayer.krasnova.MusicPlayerActivity$2 -> com.newapp.musicplayer.krasnova.e:
+    com.newapp.musicplayer.krasnova.MusicPlayerActivity this$0 -> a
+    void onClick(android.view.View) -> onClick
+com.newapp.musicplayer.krasnova.MusicPlayerActivity$3 -> com.newapp.musicplayer.krasnova.f:
+    com.newapp.musicplayer.krasnova.MusicPlayerActivity this$0 -> a
+    void onClick(android.view.View) -> onClick
+com.newapp.musicplayer.krasnova.MusicPlayerActivity$4 -> com.newapp.musicplayer.krasnova.g:
+    com.newapp.musicplayer.krasnova.MusicPlayerActivity this$0 -> a
+    void onClick(android.view.View) -> onClick
+com.newapp.musicplayer.krasnova.MusicPlayerActivity$5 -> com.newapp.musicplayer.krasnova.h:
+    com.newapp.musicplayer.krasnova.MusicPlayerActivity this$0 -> a
+    void onClick(android.view.View) -> onClick
+com.newapp.musicplayer.krasnova.MusicPlayerActivity$6 -> com.newapp.musicplayer.krasnova.i:
+    com.newapp.musicplayer.krasnova.MusicPlayerActivity this$0 -> a
+    void onClick(android.view.View) -> onClick
+com.newapp.musicplayer.krasnova.MusicPlayerActivity$7 -> com.newapp.musicplayer.krasnova.j:
+    com.newapp.musicplayer.krasnova.MusicPlayerActivity this$0 -> a
+    void onClick(android.view.View) -> onClick
+com.newapp.musicplayer.krasnova.MusicPlayerActivity$8 -> com.newapp.musicplayer.krasnova.k:
+    com.newapp.musicplayer.krasnova.MusicPlayerActivity this$0 -> a
+    void onClick(android.view.View) -> onClick
+com.newapp.musicplayer.krasnova.MusicPlayerActivity$9 -> com.newapp.musicplayer.krasnova.l:
+    com.newapp.musicplayer.krasnova.MusicPlayerActivity this$0 -> a
+    void onClick(android.view.View) -> onClick
+com.newapp.musicplayer.krasnova.PlayListActivity -> com.newapp.musicplayer.krasnova.PlayListActivity:
+    void onCreate(android.os.Bundle) -> onCreate
+    void onBackPressed() -> onBackPressed
+com.newapp.musicplayer.krasnova.PlayListActivity$1 -> com.newapp.musicplayer.krasnova.m:
+    com.newapp.musicplayer.krasnova.PlayListActivity this$0 -> a
+    void onItemClick(android.widget.AdapterView,android.view.View,int,long) -> onItemClick
+com.newapp.musicplayer.krasnova.SongObject -> com.newapp.musicplayer.krasnova.n:
+    java.util.List songsNames -> a
+    java.util.List songsDescriptors -> b
+    java.util.List getSongsDescriptors() -> a
+    void setSongsDescriptors(java.util.List) -> a
+    java.util.List getSongsNames() -> b
+    void setSongsNames(java.util.List) -> b
+com.newapp.musicplayer.krasnova.SongsManager -> com.newapp.musicplayer.krasnova.o:
+    java.lang.String MEDIA_PATH -> a
+    com.newapp.musicplayer.krasnova.SongObject playListObject -> b
+    com.newapp.musicplayer.krasnova.SongsManager INSTANCE -> c
+    com.newapp.musicplayer.krasnova.SongsManager getInstance() -> a
+    com.newapp.musicplayer.krasnova.SongObject getPlayListObject(android.app.Activity) -> a
+    java.lang.String getStringResourceByName(java.lang.String,android.app.Activity) -> a
+com.newapp.musicplayer.krasnova.Utilities -> com.newapp.musicplayer.krasnova.p:
+    java.lang.String milliSecondsToTimer(long) -> a
+    int getProgressPercentage(long,long) -> a
+    int progressToTimer(int,int) -> a

@@ -1,0 +1,12 @@
+android.annotation.SuppressLint
+android.annotation.TargetApi
+com.newapp.musicplayer.krasnova.BuildConfig
+com.newapp.musicplayer.krasnova.MusicPlayerActivity:
+    public static final java.lang.String CURRENT_AUDIO_PODCAST_INDEX
+    public static final java.lang.String IS_BOOK_DOWNLOADED
+com.newapp.musicplayer.krasnova.R
+com.newapp.musicplayer.krasnova.R$attr
+com.newapp.musicplayer.krasnova.R$drawable
+com.newapp.musicplayer.krasnova.R$id
+com.newapp.musicplayer.krasnova.R$layout
+com.newapp.musicplayer.krasnova.R$string

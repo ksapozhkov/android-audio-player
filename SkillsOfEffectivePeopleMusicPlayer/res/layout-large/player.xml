@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.DrawerLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/drawer_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <FrameLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/background"
+            android:orientation="vertical" >
+
+            <FrameLayout
+                android:id="@+id/top"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_weight="0.3" >
+
+                <ListView
+                    android:id="@+id/playerList"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:cacheColorHint="@android:color/transparent"
+                    android:divider="#000000"
+                    android:dividerHeight="1dp"
+                    android:fastScrollEnabled="true"
+                    android:listSelector="@drawable/list_selector"
+                    android:padding="5dp" />
+            </FrameLayout>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:orientation="vertical" >
+
+                <LinearLayout
+                    android:id="@+id/player_footer_bg"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:orientation="horizontal" >
+
+                    <!-- Player Buttons -->
+
+                    <ImageButton
+                        android:id="@+id/btnPrevious"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:background="@null"
+                        android:src="@drawable/btn_previous" />
+
+                    <ImageButton
+                        android:id="@+id/btnBackward"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:background="@null"
+                        android:src="@drawable/btn_backward" />
+
+                    <ImageButton
+                        android:id="@+id/btnPlay"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:background="@null"
+                        android:src="@drawable/btn_play" />
+
+                    <ImageButton
+                        android:id="@+id/btnForward"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:background="@null"
+                        android:src="@drawable/btn_forward" />
+
+                    <ImageButton
+                        android:id="@+id/btnNext"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:background="@null"
+                        android:src="@drawable/btn_next" />
+                </LinearLayout>
+
+                <!-- Player Footer -->
+
+                <RelativeLayout
+                    android:id="@+id/timerDisplay"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp" >
+
+                    <!-- Current Duration Label -->
+
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal" >
+
+                        <TextView
+                            android:id="@+id/songCurrentDurationLabel"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="10dp"
+                            android:gravity="right"
+                            android:text=""
+                            android:textColor="@color/current_duration"
+                            android:textSize="12sp"
+                            android:textStyle="bold" />
+
+                        <SeekBar
+                            android:id="@+id/songProgressBar"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:paddingLeft="25dp"
+                            android:paddingRight="25dp"
+                            android:progressDrawable="@drawable/apptheme_scrubber_progress_horizontal_holo_light"
+                            android:thumb="@drawable/apptheme_scrubber_control_selector_holo_light" />
+
+                        <TextView
+                            android:id="@+id/songTotalDurationLabel"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginRight="10dp"
+                            android:gravity="left"
+                            android:text=""
+                            android:textColor="@color/total_duration"
+                            android:textSize="12sp"
+                            android:textStyle="bold" />
+                    </LinearLayout>
+
+                    <!-- Song Title -->
+
+                    <TextView
+                        android:id="@+id/songTitle"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentBottom="true"
+                        android:layout_marginBottom="10dp"
+                        android:layout_marginLeft="10dp"
+                        android:drawableLeft="@drawable/sample"
+                        android:drawablePadding="7dp"
+                        android:gravity="center"
+                        android:text="@string/song_name"
+                        android:textColor="@color/white_overlay"
+                        android:textSize="18sp"
+                        android:textStyle="bold" />
+                </RelativeLayout>
+            </LinearLayout>
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/loading_text"
+            android:layout_width="150dp"
+            android:layout_height="50dp"
+            android:layout_gravity="center"
+            android:background="@color/black_transparent"
+            android:gravity="center"
+            android:text="@string/loading_text"
+            android:textColor="@color/white_overlay"
+            android:textSize="16sp"
+            android:visibility="invisible" />
+    </FrameLayout>
+
+    <ScrollView
+        android:layout_width="240dp"
+        android:layout_height="match_parent"
+        android:layout_gravity="right" >
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/black_transparent"
+            android:gravity="center_horizontal|top"
+            android:orientation="vertical"
+            android:padding="10dp" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:paddingBottom="20dp"
+                android:text="@string/more_apps"
+                android:textSize="16sp" />
+
+            <!-- #1 -->
+
+            <ImageView
+                android:id="@+id/live_your_live"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/live_your_life" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="@string/live_your_life" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="2dp"
+                android:layout_margin="10dp"
+                android:background="@color/white_overlay" >
+            </View>
+
+            <!-- #2 -->
+
+            <ImageView
+                android:id="@+id/success_mindset"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/success_mindset" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="@string/success_mindset" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="2dp"
+                android:layout_margin="10dp"
+                android:background="@color/white_overlay" >
+            </View>
+
+            <!-- #3 -->
+
+            <ImageView
+                android:id="@+id/yoga_music"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/yoga_music" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="@string/yoga_music" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="2dp"
+                android:layout_margin="10dp"
+                android:background="@color/white_overlay" >
+            </View>
+
+            <!-- #4 -->
+
+            <ImageView
+                android:id="@+id/kamasutra"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/kamasutra" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="@string/kamasutra" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="2dp"
+                android:layout_margin="10dp"
+                android:background="@color/white_overlay" >
+            </View>
+
+            <!-- #5 -->
+
+            <ImageView
+                android:id="@+id/success_lessons"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/success_lessons" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="@string/success_lessons" />
+        </LinearLayout>
+    </ScrollView>
+
+</android.support.v4.widget.DrawerLayout>

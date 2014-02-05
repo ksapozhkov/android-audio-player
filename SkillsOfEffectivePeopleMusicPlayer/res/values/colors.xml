@@ -1,0 +1,24 @@
+<resources>
+
+    <color name="black_overlay">#000000</color>
+    <color name="white_overlay">#FFFFFF</color>
+    <color name="book_overlay">#E1C6A3</color>
+    <color name="black_transparent">#AA000000</color>
+    <color name="blue">#0000FF</color>
+    <color name="color_start">#28384E</color>
+    <color name="color_center">#233143</color>
+    <color name="color_end">#1A222D</color>
+    <color name="color_hover_start">#BCBCBC</color>
+    <color name="color_hover_center">#CDCDCF</color>
+    <color name="color_hover_end">#DCDCDC</color>
+    <color name="current_duration">#FFFFFF</color>
+    <color name="total_duration">#FFFFFF</color>
+    <color name="disabled_item_color_start">#9F545454</color>
+    <color name="disabled_item_color_center">#9F484A4B</color>
+    <color name="disabled_item_color_end">#9F3D3D3D</color>
+    <color name="background_color_start">#28384E</color>
+    <color name="background_color_center">#1A222D</color>
+    <color name="background_color_end">#28384E</color>
+ 	<color name="black_transparent_list">#5F000000</color>
+    
+</resources>

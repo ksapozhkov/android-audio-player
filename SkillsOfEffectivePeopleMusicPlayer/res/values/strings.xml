@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">7 навыков высокоэффективных людей</string>
+    <string name="song_name">Название трека</string>
+    <string name="lost_connection">Отсутствует соединение с сетью</string>
+    <string name="author">Стивен Р. Кови</string>
+    <string name="loading_text">Загрузка&#8230;</string>
+    <string name="congratulating"><b>Благодарим за получение PREMIUM доступа!</b> Теперь все аудиозаписи доступны для прослушивания.</string>
+    <string name="public_key">MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAg0QAPvtQkpTKxBbF0VLJ5RKIggOUGb0LN4P7isdqSIN7YNX1To9Z4RI84kKDunUlcso/Gspa3sGv7fq0vsLwDQZztACY1muG8i5T4hVlDlXgUriUzHFN4M3GObIVO0MHNPjYKS3HZ/I3kn+PTuc2Lj985Kxr/ro3jZOj/E9z40PhWT6WUAbYJW4bHJFV8sFnCwprlMAGTAytIjWaOSVBNsepQpM8fJFqG7kxeAtMJ1kxXCugXobVh2H4Fn0Q7bHzF01px0F5AxUbP9jMqXhGQCx5SmOuQasw5KKkJidqFQx0daNZ9jrEc3ElaIXFm+Szwrf0RMrTjaTPQBc6GF4FDwIDAQAB</string>
+    <string name="get_premium_access">PREMIUM доступ</string>
+    <string name="get_premium_access_text">Получите PREMIUM доступ ко всем аудиозаписям всего за $0,99 и повысьте свою эффективность!</string>
+    <string name="yes">Хочу!</string>
+    <string name="cancel">Нет, спасибо</string>
+    <string name="rate_text">Если Вам понравилось это приложение - пожалуйста, оцените его! Спасибо Вам!</string>
+    <string name="rate">Оценить!</string>
+    <string name="live_your_life">Живи жизнью своей мечты</string>
+    <string name="success_mindset">Образ мышления предпринимателя</string>
+    <string name="yoga_music">Музыка для йоги</string>
+    <string name="kamasutra">Камасутра для оратора</string>
+    <string name="success_lessons">Уроки успеха</string>
+    <string name="more_apps">Попробуй новые аудио-приложения!</string>
+
+    <!-- Errors -->
+    <string name="error">Ошибка:</string>
+    <string name="failed_to_query_inventory">Не удалось получить список покупок</string>
+    <string name="problem_setting_up_in_app_billing">Не удалось настроить биллинг</string>
+    <string name="authenticity_verification_failed">Не удалось пройти проверку подлинности</string>
+    <string name="error_purchasing">Не удалось совершить покупку</string>
+
+</resources>
